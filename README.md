@@ -1,4 +1,4 @@
-# Simple Form with Validation
+# Multi Step Form
 
 This project consists of a step form with fileds name, age and hobby. This task is from the Szkoła Reacta course.
 
